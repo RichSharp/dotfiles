@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = rasharpe09@gmail.com
+	name = richard sharpe
